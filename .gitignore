@@ -1,2 +1,10 @@
 node_modules
 .vscode
+/.vs
+/GW2PAO/bin/x86
+/GW2PAO
+/GW2PAO.API
+/GW2PAO.PresentationCore
+/GW2PAO.TS3
+/packages
+/UnitTests
